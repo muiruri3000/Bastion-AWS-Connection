@@ -23,5 +23,5 @@ This Terraform project provisions a secure AWS Virtual Private Cloud (VPC) with 
 - Elastic IP for NAT Gateway
 - NAT Gateway for private subnet internet access
 
-## 📁 Project Structure
+
 
